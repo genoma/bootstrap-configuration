@@ -3,6 +3,8 @@ bootstrap-configuration
 
 Front end development configuration with Bootstrap as a git module, Grunt configuration for main project with Less, CoffeeScript support, templating support.
 
+# DEPRECATED
+
 ## Grunt Tasks
 
 ### `$ grunt prepare`
